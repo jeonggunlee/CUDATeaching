@@ -8,6 +8,7 @@
 
 ## REFERENCES (참조Sites)
   - CUDA Sample Directory: C:\ProgramData\NVIDIA Corporation\CUDA Samples
-  - 최고의강좌! 강추! Youtube [Intro to Parallel Programming](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2), Udacity
-  - YOUTUBE [CUDA LECTURE](https://www.youtube.com/watch?v=sxhvmTveO2A) - Oklahoma State University
+  - 최고의강좌! 강추! [Intro to Parallel Programming](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2), Udacity
+  - [HPC](https://www.youtube.com/watch?v=grD5en6_IiQ&list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
+  - [CUDA LECTURE](https://www.youtube.com/watch?v=sxhvmTveO2A) - Oklahoma State University
 
