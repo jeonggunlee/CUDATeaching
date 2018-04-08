@@ -1,7 +1,11 @@
 # CUDA 기반의 GPU Programming 교육 @ 한국로봇산업진흥원
 
 ## Schedule (스케쥴)
-  - Day 1
+  - Day 1:
+    - 병렬프로그래밍소개
+    -	GPU 병렬프로그래밍 기초
+    - GPU 아키텍쳐
+    - GPU 병렬프로그래밍: 실습
   - Day 2
   - Day 3
 
