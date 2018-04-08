@@ -1,5 +1,9 @@
 # CUDA 기반의 GPU Programming 교육 @ 한국로봇산업진흥원
 
+Schedule (스케쥴)
+  - Day 1
+  - Day 2
+  - Day 3
 
 
 REFERENCES (참조Sites)
