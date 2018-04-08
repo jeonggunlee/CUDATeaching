@@ -2,5 +2,8 @@
 
 
 
-CUDA Sample Directory: C:\ProgramData\NVIDIA Corporation\CUDA Samples
+REFERENCES (참조Sites)
+  - CUDA Sample Directory: C:\ProgramData\NVIDIA Corporation\CUDA Samples
+  - Youtube [Intro to Parallel Programming](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2), Udacity
+  - YOUTUBE [CUDA LECTURE](https://www.youtube.com/watch?v=sxhvmTveO2A) - Oklahoma State University
 
