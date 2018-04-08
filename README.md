@@ -2,13 +2,21 @@
 
 ## Schedule (스케쥴)
   - Day 1:
-    - 병렬프로그래밍소개
-    -	GPU 병렬프로그래밍 기초
+    - 병렬프로그래밍소개 (2시간)
+    -	GPU 병렬프로그래밍 기초 (2시간)
     -	GPU 아키텍쳐
-    - GPU 병렬프로그래밍: 실습
+    - GPU 병렬프로그래밍: 실습 (2시간)
   - Day 2
+    - GPU 프로그래밍: 최적화
+    - GPU 프로그래밍: 최적화 실습
+    - Parallel Transpose 최적화
+    - Parallel Reduction 최적화 (2시간)
+    - CUDA 최적화 실습 (2시간)
   - Day 3
-
+    - 병렬 CUDA 벡터곱 최적화 (2시간)
+    - Host-GPU 인터페이싱: Streams
+    - Host-GPU 인터페이싱: Streams 실습
+    - 개발사례: GPU 기반 초음파영상처리
 
 ## REFERENCES (참조Sites)
   - CUDA Sample Directory: C:\ProgramData\NVIDIA Corporation\CUDA Samples
