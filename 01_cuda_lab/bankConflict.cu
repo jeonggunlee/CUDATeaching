@@ -10,6 +10,8 @@ __global__ void MyKernel(unsigned long long* time)
   __shared__ float shared[1024];
 
   unsigned long long startTime = clock();   // Starting point of measure
+               // For the use of clock() in kernel function,
+               // please check https://github.com/zchee/cuda-sample/blob/master/0_Simple/clock/clock.cu
 
   shared[threadIdx.x*s]++;
       // when s = 1 --> no bank conflict
