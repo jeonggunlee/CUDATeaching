@@ -1,4 +1,4 @@
-## 클루우드를 활용한 GPU 실습
+## Amazon 클라우드 (AWS) 를 활용한 GPU 실습
 
 윈도우즈의 경우 OpenSSH 사용: [LINK](https://www.admfactory.com/how-to-install-openssh-on-windows/)
 
