@@ -4,10 +4,10 @@
 
 
 For ubuntu it is
-ssh -i my-pem-file.pem ubuntu@my-ec2-instance-address
+> ssh -i my-pem-file.pem ubuntu@my-ec2-instance-address
 
 For RHEL it is
-ssh -i my-pem-file.pem root@my-ec2-instance-address
+> ssh -i my-pem-file.pem root@my-ec2-instance-address
 
 Connecting to an ec2 instance does not require a password, it would require only a pem file and this is how you connect to it
-ssh -i my-pem-file.pem ec2-user@my-instance-address
+> ssh -i my-pem-file.pem ec2-user@my-instance-address
