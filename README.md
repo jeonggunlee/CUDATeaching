@@ -6,6 +6,7 @@
     -	GPU 병렬프로그래밍 기초 (2시간)
     -	GPU 아키텍쳐
     - GPU 병렬프로그래밍: 실습 (2시간)
+      - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
     
   - **Day 2:**
     -	GPU 프로그래밍: 최적화
