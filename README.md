@@ -2,6 +2,8 @@
 # GPU를 이용한 병렬 프로그래밍
 ## 7월 3일 - 5일 (2박 3일)
 
+![Schedule](./images/schedule.JPG)
+
 ## Schedule (스케쥴)
   - **Day 1:**
     -	병렬프로그래밍소개 (2시간)
