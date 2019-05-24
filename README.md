@@ -28,8 +28,9 @@
     -	Host-GPU 인터페이싱: Streams 실습
     -	개발사례: GPU 기반 초음파영상처리
 
+*  *  *
 ![Schedule](./images/schedule.JPG)
-
+*  *  *
 
 ## REFERENCES (참조Sites)
   - CUDA Sample Directory: C:\ProgramData\NVIDIA Corporation\CUDA Samples
