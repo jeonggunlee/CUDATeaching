@@ -1,4 +1,8 @@
-# CUDA 기반의 GPU Programming 교육
+# 한국로봇산업진흥원 (https://www.kiria.org/)
+# GPU를 이용한 병렬 프로그래밍
+## 7월 3일 - 5일 (2박 3일)
+
+![Schedule](./images/schedule.JPG)
 
 ## Schedule (스케쥴)
   - **Day 1:**
