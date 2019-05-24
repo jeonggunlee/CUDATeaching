@@ -4,13 +4,14 @@
 
 ## 7월 3일 - 5일 (2박 3일)
 ### 강사: 이정근, 한림대학교 소프트웨어융합대학 교수
+### Web: www.onchip.net
 
 ## Schedule (스케쥴)
   - **Day 1: 7월 3일**
-    -	병렬프로그래밍소개 (2시간)
-    -	GPU 병렬프로그래밍 기초 (2시간)
+    -	병렬프로그래밍소개
+    -	GPU 병렬프로그래밍 기초
     -	GPU 아키텍쳐
-    - GPU 병렬프로그래밍: 실습 (2시간)
+    - GPU 병렬프로그래밍: 실습
       - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
       - [Google Drive와 연동하기](https://github.com/jeonggunlee/CUDATeaching/blob/master/colab_gdrive.ipynb)
     
@@ -18,8 +19,8 @@
     -	GPU 프로그래밍: 최적화
     -	GPU 프로그래밍: 최적화 실습
     -	Parallel Transpose 최적화
-    -	Parallel Reduction 최적화 (2시간)
-    -	CUDA 최적화 실습 (2시간)
+    -	Parallel Reduction 최적화
+    -	CUDA 최적화 실습
     
   - **Day 3: 7월 5**
     -	병렬 CUDA 벡터곱 최적화 (2시간)
