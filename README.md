@@ -22,7 +22,7 @@
     -	Parallel Reduction 최적화
     -	CUDA 최적화 실습
     
-  - **Day 3: 7월 5**
+  - **Day 3: 7월 5일**
     -	병렬 CUDA 벡터곱 최적화 (2시간)
     -	Host-GPU 인터페이싱: Streams
     -	Host-GPU 인터페이싱: Streams 실습
