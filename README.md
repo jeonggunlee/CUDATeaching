@@ -1,5 +1,7 @@
 ## 한국로봇산업진흥원 (https://www.kiria.org/)
-# GPU를 이용한 병렬 프로그래밍
+# GPU를 이용한 병렬 프로그래밍 (CUDA 병렬 프로그래밍)
+## High Performance Parallel Programming with Nvidia GPU
+
 ## 7월 3일 - 5일 (2박 3일)
 ### 강사: 이정근, 한림대학교 소프트웨어융합대학 교수
 
