@@ -9,9 +9,9 @@
 ## Schedule (스케쥴)
   - **Day 1: 7월 3일**
     -	병렬프로그래밍소개
-      - pthread
-      - openmp
-      - avx 등 맛보기
+      * pthread
+      * openmp
+      * avx 등 맛보기
     -	GPU 병렬프로그래밍 기초
     -	GPU 아키텍쳐
     - GPU 병렬프로그래밍: 실습
