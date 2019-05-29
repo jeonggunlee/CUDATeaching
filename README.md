@@ -14,6 +14,7 @@
     - GPU 병렬프로그래밍: 실습
       - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
       - [Google Drive와 연동하기](https://github.com/jeonggunlee/CUDATeaching/blob/master/colab_gdrive.ipynb)
+      - [Udacity GPU Programming 강좌 예제 파일](https://github.com/jeonggunlee/cs344/)
     
   - **Day 2: 7월 4일**
     -	GPU 프로그래밍: 최적화
