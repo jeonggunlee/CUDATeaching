@@ -6,11 +6,11 @@
 ### 강사: 이정근, 한림대학교 소프트웨어융합대학 교수
 ### Web: www.onchip.net
 
-```
+
 - 강의 자료는 [PPT 디렉토리](https://github.com/jeonggunlee/CUDATeaching/tree/master/PPTs)볼수 있습니다.
 - 실습 자료는 [01_a_lab](https://github.com/jeonggunlee/CUDATeaching/tree/master/01_cuda_lab), [02_a_lab](https://github.com/jeonggunlee/CUDATeaching/tree/master/02_cuda_lab), 및 [03_a_lab](https://github.com/jeonggunlee/CUDATeaching/tree/master/03_cuda_lab)을 참조하시기 바랍니다.
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C)
-```
+
 
 ## Schedule (스케쥴)
   - **Day 1: 7월 3일**
