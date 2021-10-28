@@ -1,9 +1,8 @@
-## 한국로봇산업진흥원 (https://www.kiria.org/)
+
 # GPU를 이용한 병렬 프로그래밍 (CUDA 병렬 프로그래밍)
 ## High Performance Parallel Programming with Nvidia GPU
 
-## 7월 3일 - 5일 (2박 3일)
-### 강사: 이정근, 한림대학교 소프트웨어융합대학 교수 (Lecturer: Jeong-Gun Lee, Hallym University)
+### 이정근, 한림대학교 소프트웨어융합대학 교수 (Lecturer: Jeong-Gun Lee, Hallym University)
 ### Web: www.onchip.net
 
 ### 주요 자료 (Main Teaching Materials)
@@ -14,7 +13,7 @@
 
 
 ## Schedule (스케쥴)
-  - **Day 1: 7월 3일**
+  - **Day 1**
     -	병렬프로그래밍소개 ([PPT](./PPTs/Robot_01_Intro. Parallel Computing.pdf), [pthread / openmp / avx](./01_cuda_lab))
     -	GPU 병렬프로그래밍 기초
     -	GPU 아키텍쳐
@@ -23,14 +22,14 @@
       - [Google Drive와 연동하기](https://github.com/jeonggunlee/CUDATeaching/blob/master/colab_gdrive.ipynb)
       - [Udacity GPU Programming 강좌 예제 파일](https://github.com/jeonggunlee/cs344/)
     
-  - **Day 2: 7월 4일**
+  - **Day 2**
     -	GPU 프로그래밍: 최적화
     -	GPU 프로그래밍: 최적화 실습
     -	Parallel Transpose 최적화
     -	Parallel Reduction 최적화
     -	CUDA 최적화 실습
     
-  - **Day 3: 7월 5일**
+  - **Day 3**
     -	병렬 CUDA 벡터곱 최적화 (2시간)
     -	Host-GPU 인터페이싱: Streams
     -	Host-GPU 인터페이싱: Streams 실습
