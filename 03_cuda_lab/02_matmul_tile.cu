@@ -1,5 +1,3 @@
-# Tiled Version 1
-
 #include <stdio.h>
 
 __global__ void MatrixMul(int *M, int *N, int *P, int width)
@@ -98,9 +96,7 @@ int main(void)
         printf("\n");
     }
 */
-    for(i = 0; i < size; i++)
-        for(j = 0; j < size; j++)
-            if( h_C[i*size+j] != h_gC[i*size+j] ) {
+
      for(i = 0; i < size; i++)
         for(j = 0; j < size; j++)
             if( h_C[i*size+j] != h_gC[i*size+j] ) {

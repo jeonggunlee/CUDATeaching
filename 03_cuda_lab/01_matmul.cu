@@ -49,11 +49,11 @@ int main(void)
         }
     printf("Host Computing Finished !\n");
 
-    for(i = 0; i < size; i++) {
-        for(j = 0; j < size; j++)
-          printf("%d ", h_C[i*size+j]);
-        printf("\n");
-    }
+    // for(i = 0; i < size; i++) {
+    //     for(j = 0; j < size; j++)
+    //       printf("%d ", h_C[i*size+j]);
+    //     printf("\n");
+    // }
     cudaMalloc(&d_A, sizeByte);
     cudaMalloc(&d_B, sizeByte);
     cudaMalloc(&d_C, sizeByte);
@@ -70,11 +70,11 @@ int main(void)
     printf("GPU Computing Finished !\n");
     cudaMemcpy(h_gC, d_C, sizeByte, cudaMemcpyDeviceToHost);
 
-    for(i = 0; i < size; i++) {
-        for(j = 0; j < size; j++)
-          printf("%d ", h_gC[i*size+j]);
-        printf("\n");
-    }
+    // for(i = 0; i < size; i++) {
+    //     for(j = 0; j < size; j++)
+    //       printf("%d ", h_gC[i*size+j]);
+    //     printf("\n");
+    // }
 
     for(i = 0; i < size; i++)
         for(j = 0; j < size; j++)
